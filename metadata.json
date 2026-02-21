@@ -1,0 +1,5 @@
+{
+  "name": "VisionGuard",
+  "description": "AI-Powered Retinal Disease Detection System using Deep Learning and Explainable AI to identify conditions like Diabetic Retinopathy, Glaucoma, and Cataracts from fundus images.",
+  "requestFramePermissions": []
+}
